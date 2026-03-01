@@ -1,6 +1,7 @@
 var adminCourses = [
   { CourseID: "101", Name: "Math Basics", Grade: 7, Subject: "Math" },
-  { CourseID: "102", Name: "Science Intro", Grade: 8, Subject: "Science" }
+  { CourseID: "102", Name: "Science Intro", Grade: 8, Subject: "Science" },
+  { CourseID: "103", Name: "English", Grade: 8, Subject: "Language" }
 ];
 
 function fetchCoursesSim() {
